@@ -17,7 +17,7 @@ conda create -p venv python==3.10 -y
 
 ## Overview
 
-### This is a simple Weather App built using Python and the Tkinter library for the GUI. It provides weather information for a given city, including temperature, wind speed, humidity, and more. Additionally, it displays sunrise and sunset times along with the current time in the selected location.
+#### This is a simple Weather App built using Python and the Tkinter library for the GUI. It provides weather information for a given city, including temperature, wind speed, humidity, and more. Additionally, it displays sunrise and sunset times along with the current time in the selected location.
 
 ## Screenshot
 
@@ -26,7 +26,7 @@ To run this application, you'll need the following installed:
 
 • Python 3.x
 
-• Tkinter
+• Tkinter (Tkinter is installed included with Python by default.)
 
 • PIL (Python Imaging Library)
 
